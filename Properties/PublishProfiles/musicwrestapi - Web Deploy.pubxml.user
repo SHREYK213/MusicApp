@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAA+kSxY7FH068+4SEpGaTrgAAAAACAAAAAAAQZgAAAAEAACAAAACNiDmJ+DQozRW+mP6P4q5xcWXy7npKj5MlbM2ukstvLAAAAAAOgAAAAAIAACAAAAACzznG5LcEah0lmYB6y/AC7zw0jVtDXN4SH2pQhlXdTIAAAAA4gvvU2xDPiwdpaZo5IXad7E3rR7SjlM3phhnTLZmxVXWZrMhELXsluT9FplGUTKyx2m7hsXRmi9XqD27fYDBHEFC+tgn7SiucDL4J3Ukadba0iUpzZHBdKwNmASus0YEO3FP8ktw1Ju5WODFVHd/bGawmN6cbAU1Dhvi5rD+wfkAAAADZKtVuU8ulCSv4f2jy1yRD3yZD+vmDjLrbli05ALNrkxED4JCT0/lk/BDk472ffW6hXnczCqYfO6CiRKPlU+of</EncryptedPassword>
+    <History>False|2022-09-04T10:44:53.0737042Z;True|2022-09-04T16:08:25.0429846+05:30;False|2022-09-04T16:07:10.9489092+05:30;False|2022-09-04T16:02:54.1501301+05:30;False|2022-09-04T15:50:18.3807334+05:30;False|2022-09-04T15:47:59.2301903+05:30;True|2022-09-04T15:44:42.3680685+05:30;True|2022-09-04T15:39:17.5021996+05:30;True|2022-09-04T15:37:33.3626737+05:30;True|2022-09-04T15:33:13.8282212+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="MusicApi.Data.ApiDbContext">
+      <Value>Server=tcp:musicdbserver.database.windows.net,1433%3bInitial Catalog=musicdb%3bPersist Security Info=False%3bUser ID=mitshrey%3bPassword=SHREYAS_213000%24#%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
